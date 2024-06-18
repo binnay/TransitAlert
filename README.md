@@ -1,6 +1,7 @@
 # TransitAlert #
 
 ### **사용자 위치 입력을 통한 경로 탐색 애플리케이션** ###
+2071135 윤성빈
 
 <br><br>
 
@@ -19,7 +20,7 @@
 <img width="299" alt="스크린샷" src="https://github.com/binnay/TransitAlert/assets/125789787/1d59654c-c221-4b72-b225-df9ff14f16c3">
 <img width="300" alt="스크린샷" src="https://github.com/binnay/TransitAlert/assets/125789787/f4795fde-d270-40cd-ac6f-47f885420c94">
 
-<br>
+<br><br>
 
 ### 2. 위치를 입력하여 주소를 제공 화면 ###
 
