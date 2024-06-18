@@ -41,3 +41,8 @@
 <br>
 <img width="302" alt="스크린샷" src="https://github.com/binnay/TransitAlert/assets/125789787/07e14f51-3887-4f46-ba60-4f0b6b1f43c8">
 
+<br><br>
+
+## 시연영상 ##
+
+![시연영상](https://github.com/binnay/TransitAlert/assets/125789787/aade7702-1163-4acc-8119-5c44dc651421)
