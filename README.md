@@ -56,4 +56,5 @@
 
 ## 시연영상 ##
 
-![시연영상](https://github.com/binnay/TransitAlert/assets/125789787/aade7702-1163-4acc-8119-5c44dc651421)
+![TransitAlert](https://github.com/binnay/TransitAlert/assets/125789787/90fb50d8-20aa-46c1-aecb-9213ff23dd9c)
+
