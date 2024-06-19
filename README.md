@@ -2,6 +2,7 @@
 
 ### **사용자 위치 입력을 통한 경로 탐색 애플리케이션** ###
 2071135 윤성빈
+소개 영상 링크 : https://www.youtube.com/watch?v=rYBbqC_G0z8
 
 <br><br>
 
